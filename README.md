@@ -1,5 +1,5 @@
 <p align="center">
-<img align="center" src="rest.-api.gif" width="100%" alt="API Giphy logo"/>
+<img align="center" src="rest-api.gif" width="100%" alt="API Giphy logo"/>
 </p>
 
 # GIPHY API Documentation
